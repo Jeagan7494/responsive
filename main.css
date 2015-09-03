@@ -1,0 +1,88 @@
+
+.navBarLinks {
+	display: inline-block;
+	text-decoration: none;
+	padding: 1.2em;
+	color: white;
+}
+.navigation {
+	background-color: #C23506;
+	text-align: center;
+	font-size: 30px;
+	width: 100vw;
+}
+
+.mainHeading {
+	
+
+}
+.firstHeader {
+	font-family: Arial;
+	font-size: 30px;
+	margin: 0;
+	background-color: #0693C2;
+	padding: 2vw;
+	text-align: center;
+	width: 100vw;
+}
+.first-word {
+	font-size: 60px;
+	font-weight: bold;
+}
+.mainPic {
+	float: left;
+	margin-left: 2em;
+	margin-right: 2em;
+}
+.content {
+	font-size: 20px;
+}
+.content:first-letter {
+	font-size: 50px;
+}
+.homeContent {
+	margin-left: 2em;
+
+}
+.imageGallery {
+	clear: left;
+	padding: 2em;
+
+}
+.littlePics {
+	display: inline-block;
+	height: 250px;
+	width: 20%;
+	float: left;
+	margin-right: 6.66%;
+}
+.littlePics:nth-child(4) {
+	margin-right: 0;
+}
+.littlePics.one {
+	background:  url(https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xpf1/v/t1.0-9/11012525_10153337603828891_6976421236482629935_n.jpg?oh=a714f6569fcaaf2ac3593c5edbf27ea1&oe=56641F30) 0 0;
+	background-size: cover;
+}
+.littlePics.two {
+	background:  url(https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xfa1/v/t1.0-9/1625548_10153242551213891_6463442995299833062_n.jpg?oh=a8e38b32c835f537422136dbc22b8bfb&oe=56752CF5) 0 0;
+	background-size: cover;
+}
+.littlePics.three {
+	background:  url(https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xta1/v/t1.0-9/11251385_10153133552838891_369972094504298129_n.jpg?oh=16a27c156f348e550c437adf57c472e4&oe=56A9EF42) 0 0;
+	background-size: cover;
+}
+.littlePics.four {
+	background:  url(https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xft1/v/t1.0-9/11141778_10153091303598891_1548581481796807436_n.jpg?oh=004a4bd683fc049f79e8615286293bc7&oe=56679F2B) 0 0;
+	background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
